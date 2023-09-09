@@ -8,11 +8,11 @@ Content Management Tool - Headless CMS with Contentful and Next.js
 - Integration with Contentful's Headless CMS.
 - Dynamic content retrieval and rendering with Next.js.
   
-* 1. Install Dependencies:
+* 1.Install Dependencies:
 ```javascript
       npm install
 ```
-* 2. Configuration:
+* 2.Configuration:
 
     Set up your Contentful space and API access.
     Add your Contentful credentials to the project.
