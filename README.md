@@ -1,5 +1,27 @@
 # Bharat-Intern-Tasks
 
+## Task - 1
+Content Management Tool - Headless CMS with Contentful and Next.js
+
+## Features
+
+- Integration with Contentful's Headless CMS.
+- Dynamic content retrieval and rendering with Next.js.
+  
+* 1. Install Dependencies:
+```javascript
+      npm install
+```
+* 2. Configuration:
+
+    Set up your Contentful space and API access.
+    Add your Contentful credentials to the project.
+  
+* 3.Run the Development Server:
+```javascript
+     npm run dev
+```
+
 ## Task - 3 
 Video conferencing website
 
