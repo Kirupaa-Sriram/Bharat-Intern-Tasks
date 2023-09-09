@@ -10,15 +10,15 @@ Content Management Tool - Headless CMS with Contentful and Next.js
 
 ### Steps  
 
-1 - Install Dependencies:
+1 - **Install Dependencies:**
 ```javascript
 npm install
 ```
-2 - Configuration:
+2 - **Configuration:**
     Set up your Contentful space and API access.
     Add your Contentful credentials to the project.
   
-3 - Run the Development Server:
+3 - **Run the Development Server:**
 ```javascript
  npm run dev
 ```
